@@ -70,7 +70,11 @@ FAL_KEY="your_generated_key"
 ```
 
 ## 📸 Screenshots
-> *(Add images to showcase prompt input, generated image display, and download functionality)*
+![Image](https://github.com/user-attachments/assets/4b2a0d34-0291-404c-b5c8-ae3c9a54d43c)
+
+![Image](https://github.com/user-attachments/assets/54240fa6-a31e-4a0f-8362-5fc795b27149)
+
+![Image](https://github.com/user-attachments/assets/5b8fdb2c-211d-4ffb-a7b3-b28b34200f25)
 
 ## 🔄 Future Enhancements
 - 🔒 User authentication and personalized image history
@@ -89,5 +93,3 @@ FAL_KEY="your_generated_key"
 This project is intended for educational use. All rights to OpenAI API usage belong to their respective owners. Please follow their API usage policy.
 
 ---
-Made with ❤️ by **Pournima Jagdish More** | Karmaveer Bhaurao Patil College, Vashi
-
